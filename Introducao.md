@@ -9,4 +9,5 @@
 
 alert( "Olá Mundo ")
 ```
+> A função alert é uma das opções para se exibir mensagens com JavaScript, porém, ela não é a única. Outra função útil para isto é o console.log, considerado "mais agradável" para a exibição de uma mensagem por não envolver um pop-up.
 
