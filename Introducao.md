@@ -1,4 +1,4 @@
-> ## Por que aprender Javascript 
+## Por que aprender Javascript ?
 
 * É a linguagem de programação **nativa da Web**
 
